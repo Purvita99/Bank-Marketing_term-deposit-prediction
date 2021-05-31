@@ -3,7 +3,8 @@
 2. Purvita Mandal
 3. Raka Sen
 4. Raktima Dey
-# Domain of the project: Banking
+## Domain of the project:
+Banking
 # Objective:
 Predicting whether a customer will subscribe a term deposit or not given customer relationship data.
 # Problem statment: 
