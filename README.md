@@ -16,3 +16,13 @@ Predicting whether a customer will subscribe a term deposit or not given custome
 This is a binary classification problem. Our two classes are “yes” denoting that the customer subscribed to a term deposit, and “no” denoting that the customer did not subscribe.The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y) using Logistic Regression.
 ## Language used:
 Python
+## Explanatory Data Analysis
+Exploratory data analysis (EDA) is used to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers we need, making it easier for us to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
+Our EDA includes:
+1) Calling the necessary libraries and importing the dataset.
+2) Describing the data.
+3) Data cleaning-Finding missing values,duplicate entries and presence of outliers.
+4) Visualization of Univariate data using barplots and distplot.
+5) Heatmap depicting correlation coefficient between numerical variables.
+6) Study of association between target variable and various categorical variables using chisquare test for independece. Calculated Crammer's V to find strength the of association. 
+7) Study association between target variable and various numerical variables using boxplot .(We did not use Point Biserial Correlation since the data did not satisfy all the assumptions required for its application)
