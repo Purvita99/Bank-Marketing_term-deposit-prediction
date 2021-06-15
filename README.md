@@ -22,7 +22,8 @@ Our EDA includes:
 1) Calling the necessary libraries and importing the dataset.
 2) Describing the data.
 3) Data cleaning-Finding missing values,duplicate entries and presence of outliers.
-4) Visualization of Univariate data using barplots and distplot.
+4) Visualization of Univariate data using countplots and histplot.
 5) Heatmap depicting correlation coefficient between numerical variables.
-6) Study of association between target variable and various categorical variables using chisquare test for independece. Calculated Crammer's V to find strength the of association. 
+6) Study of association between target variable and various categorical variables using chisquare test for independece. Calculated Chi-square measure of contingency and Crammer's V to find strength the of association. 
 7) Study association between target variable and various numerical variables using boxplot .(We did not use Point Biserial Correlation since the data did not satisfy all the assumptions required for its application)
+## Next Task: Fitting of Logistic Regression 
