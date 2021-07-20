@@ -26,8 +26,10 @@ Our EDA includes:
 5) Heatmap depicting correlation coefficient between numerical variables.
 6) Study of association between target variable and various categorical variables using chisquare test for independece. Calculated Chi-square measure of contingency and Crammer's V to find strength the of association. 
 7) Study of association between target variable and various numerical variables using boxplot .(We did not use Point Biserial Correlation since the data did not satisfy all the assumptions required for its application)
-## Next Task: 
-1) Our data is imbalanced.A problem with imbalanced classification is that there are too few instances of the minority class for a model to effectively learn the decision boundary. So we will synthesizing new instances for minority class using the method Synthetic Minority Oversampling TEchnique, or SMOTE for short.
-2) Fit Logistic Regression 
-3) Use ROC curve to decide the threshold for decision.
-4) Use precision and recall as a metric for classification. 
+## Meeting 3: 
+1) Fit Logistic Regression 
+2) Use ROC curve to decide the threshold for decision.
+3) Use precision and recall as a metric for classification.
+## Meeting 4:
+ 1) Apply concepts like Random Forest and  SVM 
+ 
