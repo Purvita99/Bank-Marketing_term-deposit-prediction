@@ -6,7 +6,7 @@
 ## Domain of the project:
  Banking
  ## About the dataset:
-The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+The data is re lated with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 The dataset was picked from UCI Machine Learning Repository.There are four variants of the datasets out of which we chose “ bank-additional-full.csv” which consists of 41188 data points with 20 independent variables out of which 10 are numeric features and 10 are categorical features. Further details about the list of features in the dataset can be found at https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 ## Objective:
 Predicting whether a customer will subscribe a term deposit or not given customer relationship data.
