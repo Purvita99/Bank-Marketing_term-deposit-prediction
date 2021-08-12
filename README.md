@@ -31,5 +31,6 @@ Our EDA includes:
 2) Use ROC curve to decide the threshold for decision.
 3) Use precision and recall as a metric for classification.
 ## Meeting 4:
- 1) Apply concepts like Random Forest and  SVM 
+ 1) Apply concepts Random Forest and  SVM 
+ 
  
