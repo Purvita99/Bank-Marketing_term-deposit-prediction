@@ -29,8 +29,10 @@ Our EDA includes:
 ## Meeting 3: 
 1) Fit Logistic Regression 
 2) Use ROC curve to decide the threshold for decision.
-3) Use precision and recall as a metric for classification.
+3) Use AUC score as a metric for classification.
 ## Meeting 4:
- 1) Apply concepts Random Forest and  SVM 
+ 1) Fit Random Forest  with appropriate tuning of the hyperparameters  
+ 2) Fit Support Vector machine using both linear kernel and radial basis function with appropriate tuning of the hyperparameters
+ 3) Comparing the AUC_score obtained in the three above cases we conclude performance of Random Forest is best followed by Logistic Regression and then SVM  
  
  
